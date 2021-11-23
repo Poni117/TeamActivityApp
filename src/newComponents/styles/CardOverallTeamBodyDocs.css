@@ -1,0 +1,7 @@
+#card-body-table-docs{
+    position: relative;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-items: center;
+    display: grid;
+}

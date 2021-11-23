@@ -1,0 +1,9 @@
+#DeleteButon{
+    position: relative;
+    border-radius: 5px;
+    border-color: rgb(89, 216, 89);;
+    width: 50px;
+    height: 30px;
+    cursor: pointer;
+    margin: 2px;
+}

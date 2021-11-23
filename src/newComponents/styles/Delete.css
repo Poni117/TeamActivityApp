@@ -1,0 +1,11 @@
+#delete-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+}
+
+#confirm-container{
+    position: absolute;
+    width: 100%;
+}

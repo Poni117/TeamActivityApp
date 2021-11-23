@@ -1,0 +1,112 @@
+#body{
+    position: relative;
+    transition: 0.25;
+    height: 40px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 20% 5px repeat(1, 1fr) 5px repeat(1, 1fr) ;
+    margin-bottom: 10px;
+  }
+  
+  #account-container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 25% 75%;
+    justify-content: normal;
+    align-items: center;
+    left: 5px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 5px;
+    height: 40px;
+  }
+  .body-btn{
+    display:none
+  }
+  
+  .nums-actions{
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    display: inline-grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center;
+    justify-items: center;
+  }
+  
+  .numComments:hover, .numCommits:hover, .numCommentsOfCommits:hover,
+  .numpullRequests:hover, 
+  .numCommentsOfPullRequests:hover, .numEditsOfPage:hover, .numCommentsOfPages:hover, .numEditsOfBlogs:hover,
+  .numCommentsOfBlogs:hover{
+    box-shadow: 0px 0px 2px 0px;
+    /* cursor: pointer; */
+  }
+  
+  @keyframes move{
+  
+    0%{
+        transform: transform(100%);
+    }
+    80%{
+        transform: translate(1%);
+    }
+    100%{
+        transform: translate(0%);
+    }
+  }
+  
+  .body:hover{
+    background-color: #3498db;
+  }
+  
+  td{
+    transition: all 10s ease-in-out;
+  }
+  
+  
+  #image{
+    position: relative;
+    width:32px;
+    height: 32px;
+  }
+  
+  #account-name{
+    position: relative;
+  }
+  
+  #img-container{
+   display: flex;
+   justify-content: center;
+  }
+  
+ .nums-actions span{
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+ }
+
+.updated-num{
+  border-radius: 4px;
+  border: 1px;
+  animation: updateNum 1s linear;
+  transition: 2s;
+}
+
+#pr-container{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  cursor: pointer;
+}
+
+@keyframes updateNum{
+  0% {
+    border: 1px solid  #3498db;
+  }
+
+  100%{
+    border: 1px solid  #3498db;
+  }
+}

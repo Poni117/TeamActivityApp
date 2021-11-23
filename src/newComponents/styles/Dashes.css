@@ -1,0 +1,11 @@
+#switch-container{
+    position: relative;
+    margin-top: 50px
+}
+
+#filters{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 20% 80%;
+    justify-items: center;
+}

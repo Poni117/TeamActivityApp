@@ -1,0 +1,21 @@
+#card-body-table-codes{
+    width: 100%;
+    display: grid;
+    grid-template-rows: 30% 55% 15%;
+    justify-items: center;
+}
+
+#card-body-codes{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+#card-body-action-codes-name{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

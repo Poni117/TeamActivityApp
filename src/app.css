@@ -1,0 +1,45 @@
+#display-body{
+    position: relative;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: 'white';
+    display: flex;
+    justify-content: center;
+
+}
+
+#atlassian-banner{
+    position: relative;
+    top: 0;
+    height: 58px;
+    box-shadow: 0px 0px 2px 0px;
+    
+}
+
+#app-label{
+    position: relative;
+    height: 70px;
+    font-weight: 600;
+    size:34px;
+    margin-top: 1px;
+    margin-left: 32px;
+}
+
+#root{
+    background-color: white;
+}
+
+.text-style{
+    color: #ffffff;
+    background: linear-gradient(to right, #4d4d4d 0, 10%, #4d4d4d 20%);
+    background-position: 0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation-fill-mode: forwards;
+    -webkit-text-size-adjust: none;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  

@@ -1,0 +1,786 @@
+{
+   "users":[
+      {
+         "accountAvatar":"https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/603e82740a8cc5007059c55e/9825fe03-c196-40b0-820c-e7d8b0de023f/32",
+         "accountName":"Anti SoundWorld",
+         "accountId":"603e82740a8cc5007059c55e",
+         "emailAddress":"",
+         "actions":{
+            "numOfActions":0,
+            "codes":{
+               "numOfCodes":0,
+               "actions":{
+                  "pullRequests":{
+                     "numOfPullRequests":0,
+                     "numOfPullRequestsComments":0
+                  },
+                  "commits":{
+                     "numOfCommits":0,
+                     "numOfCommitsComments":0
+                  }
+               }
+            },
+            "issues":{
+               "numOfIssues":0,
+               "actions":{
+                  "numOfCreatedIssues":0,
+                  "numOfEditsIssue":0,
+                  "numOfCommentsIssues":0
+               }
+            },
+            "docs":{
+               "numOfDocs":0,
+               "actions":{
+                  "pages":{
+                     "numOfCreatedPages":0,
+                     "numOfEditsPeges":0,
+                     "numOfCommentsPeges":0
+                  },
+                  "blogs":{
+                     "numOfCreatedBlogs":0,
+                     "numOfEditsBlogs":0,
+                     "numOfCommentsBlogs":0
+                  }
+               }
+            }
+         }
+      },
+      {
+         "accountAvatar":"https://secure.gravatar.com/avatar/6c4f70416d03db31744439e3626c3a45?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+         "accountName":"antisound",
+         "accountId":"613a1cbb71a7e7007231a6a0",
+         "emailAddress":"",
+         "actions":{
+            "numOfActions":0,
+            "codes":{
+               "numOfCodes":0,
+               "actions":{
+                  "pullRequests":{
+                     "numOfPullRequests":0,
+                     "numOfPullRequestsComments":0
+                  },
+                  "commits":{
+                     "numOfCommits":0,
+                     "numOfCommitsComments":0
+                  }
+               }
+            },
+            "issues":{
+               "numOfIssues":0,
+               "actions":{
+                  "numOfCreatedIssues":0,
+                  "numOfEditsIssue":0,
+                  "numOfCommentsIssues":0
+               }
+            },
+            "docs":{
+               "numOfDocs":0,
+               "actions":{
+                  "pages":{
+                     "numOfCreatedPages":0,
+                     "numOfEditsPeges":0,
+                     "numOfCommentsPeges":0
+                  },
+                  "blogs":{
+                     "numOfCreatedBlogs":0,
+                     "numOfEditsBlogs":0,
+                     "numOfCommentsBlogs":0
+                  }
+               }
+            }
+         }
+      },
+      {
+         "accountAvatar":"https://secure.gravatar.com/avatar/b1980308156f9cb01683dbeab56965ba?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMS-0.png",
+         "accountName":"Mestra Soft",
+         "accountId":"6138bbd924ba8b00700d5edd",
+         "emailAddress":"mestrasoft@gmail.com",
+         "actions":{
+            "numOfActions":0,
+            "codes":{
+               "numOfCodes":0,
+               "actions":{
+                  "pullRequests":{
+                     "numOfPullRequests":0,
+                     "numOfPullRequestsComments":0
+                  },
+                  "commits":{
+                     "numOfCommits":0,
+                     "numOfCommitsComments":0
+                  }
+               }
+            },
+            "issues":{
+               "numOfIssues":0,
+               "actions":{
+                  "numOfCreatedIssues":0,
+                  "numOfEditsIssue":0,
+                  "numOfCommentsIssues":0
+               }
+            },
+            "docs":{
+               "numOfDocs":0,
+               "actions":{
+                  "pages":{
+                     "numOfCreatedPages":0,
+                     "numOfEditsPeges":0,
+                     "numOfCommentsPeges":0
+                  },
+                  "blogs":{
+                     "numOfCreatedBlogs":0,
+                     "numOfEditsBlogs":0,
+                     "numOfCommentsBlogs":0
+                  }
+               }
+            }
+         }
+      },
+      {
+         "accountAvatar":"https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:97222c75-db73-48c7-aa69-e8627c578d7d/91c17534-400b-4b43-8673-6c68c1a99f4b/32",
+         "accountName":"Roman Zinnatov",
+         "accountId":"557058:97222c75-db73-48c7-aa69-e8627c578d7d",
+         "emailAddress":"",
+         "actions":{
+            "numOfActions":0,
+            "codes":{
+               "numOfCodes":0,
+               "actions":{
+                  "pullRequests":{
+                     "numOfPullRequests":0,
+                     "numOfPullRequestsComments":0
+                  },
+                  "commits":{
+                     "numOfCommits":0,
+                     "numOfCommitsComments":0
+                  }
+               }
+            },
+            "issues":{
+               "numOfIssues":0,
+               "actions":{
+                  "numOfCreatedIssues":0,
+                  "numOfEditsIssue":0,
+                  "numOfCommentsIssues":0
+               }
+            },
+            "docs":{
+               "numOfDocs":0,
+               "actions":{
+                  "pages":{
+                     "numOfCreatedPages":0,
+                     "numOfEditsPeges":0,
+                     "numOfCommentsPeges":0
+                  },
+                  "blogs":{
+                     "numOfCreatedBlogs":0,
+                     "numOfEditsBlogs":0,
+                     "numOfCommentsBlogs":0
+                  }
+               }
+            }
+         }
+      },
+      {
+         "accountAvatar":"https://secure.gravatar.com/avatar/1196f1bdf06415c6eae51c252e692701?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-4.png",
+         "accountName":"Дмитрий",
+         "accountId":"603f718fcc13b60069a32ade",
+         "emailAddress":"",
+         "actions":{
+            "numOfActions":0,
+            "codes":{
+               "numOfCodes":0,
+               "actions":{
+                  "pullRequests":{
+                     "numOfPullRequests":0,
+                     "numOfPullRequestsComments":0
+                  },
+                  "commits":{
+                     "numOfCommits":0,
+                     "numOfCommitsComments":0
+                  }
+               }
+            },
+            "issues":{
+               "numOfIssues":0,
+               "actions":{
+                  "numOfCreatedIssues":0,
+                  "numOfEditsIssue":0,
+                  "numOfCommentsIssues":0
+               }
+            },
+            "docs":{
+               "numOfDocs":0,
+               "actions":{
+                  "pages":{
+                     "numOfCreatedPages":0,
+                     "numOfEditsPeges":0,
+                     "numOfCommentsPeges":0
+                  },
+                  "blogs":{
+                     "numOfCreatedBlogs":0,
+                     "numOfEditsBlogs":0,
+                     "numOfCommentsBlogs":0
+                  }
+               }
+            }
+         }
+      },
+      {
+         "accountAvatar":"https://secure.gravatar.com/avatar/6c50d223ee7f0d65dda672a20c605399?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-5.png",
+         "accountName":"Ксения",
+         "accountId":"612bc251dae0a20071677cfb",
+         "emailAddress":"",
+         "actions":{
+            "numOfActions":0,
+            "codes":{
+               "numOfCodes":0,
+               "actions":{
+                  "pullRequests":{
+                     "numOfPullRequests":0,
+                     "numOfPullRequestsComments":0
+                  },
+                  "commits":{
+                     "numOfCommits":0,
+                     "numOfCommitsComments":0
+                  }
+               }
+            },
+            "issues":{
+               "numOfIssues":0,
+               "actions":{
+                  "numOfCreatedIssues":0,
+                  "numOfEditsIssue":0,
+                  "numOfCommentsIssues":0
+               }
+            },
+            "docs":{
+               "numOfDocs":0,
+               "actions":{
+                  "pages":{
+                     "numOfCreatedPages":0,
+                     "numOfEditsPeges":0,
+                     "numOfCommentsPeges":0
+                  },
+                  "blogs":{
+                     "numOfCreatedBlogs":0,
+                     "numOfEditsBlogs":0,
+                     "numOfCommentsBlogs":0
+                  }
+               }
+            }
+         }
+      }
+   ],
+   "issues":[
+      {
+         "id":"10005",
+         "key":"TI",
+         "name":"TeamActivity instruction",
+         "avatarUrl":"https://api.atlassian.com/ex/jira/ca94b531-bbd9-4e66-9027-4f1416fcd545/secure/projectavatar?size=medium&s=medium&pid=10005&avatarId=10412",
+         "issues":[
+            {
+               "id":"10005",
+               "key":"TI-1",
+               "author":{
+                  "self":"https://api.atlassian.com/ex/jira/ca94b531-bbd9-4e66-9027-4f1416fcd545/rest/api/2/user?accountId=6138bbd924ba8b00700d5edd",
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "emailAddress":"mestrasoft@gmail.com",
+                  "avatarUrls":{
+                     "48x48":"https://secure.gravatar.com/avatar/b1980308156f9cb01683dbeab56965ba?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMS-0.png",
+                     "24x24":"https://secure.gravatar.com/avatar/b1980308156f9cb01683dbeab56965ba?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMS-0.png",
+                     "16x16":"https://secure.gravatar.com/avatar/b1980308156f9cb01683dbeab56965ba?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMS-0.png",
+                     "32x32":"https://secure.gravatar.com/avatar/b1980308156f9cb01683dbeab56965ba?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMS-0.png"
+                  },
+                  "displayName":"Mestra Soft",
+                  "active":true,
+                  "timeZone":"Europe/Moscow",
+                  "accountType":"atlassian"
+               },
+               "created":"2021-09-29",
+               "comments":[
+                  {
+                     "id":"10008",
+                     "created":"2021-10-01",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  },
+                  {
+                     "id":"10013",
+                     "created":"2021-10-03",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  },
+                  {
+                     "id":"10014",
+                     "created":"2021-10-03",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "edits":[
+                  
+               ]
+            }
+         ]
+      }
+   ],
+   "codes":[
+      {
+         "created":"2021-09-08",
+         "author":null,
+         "workspace":"MestraSoft",
+         "repositories":[
+            {
+               "created":"2021-09-15",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "repository":"team-activity",
+               "pullRequests":[
+                  {
+                     "created":"2021-09-15",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "id":1,
+                     "title":".gitignore edited online with Bitbucket",
+                     "brunch":{
+                        "name":"master"
+                     },
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-20",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "id":2,
+                     "title":".gitignore edited online with Bitbucket",
+                     "brunch":{
+                        "name":"master"
+                     },
+                     "comments":[
+                        {
+                           "created":"2021-09-20",
+                           "author":{
+                              "accountId":"6138bbd924ba8b00700d5edd",
+                              "accountName":"Mestra Soft"
+                           },
+                           "comment":"ok"
+                        }
+                     ]
+                  }
+               ],
+               "commits":[
+                  {
+                     "created":"2021-09-25",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"d49ef3bc5e9e3a3f465e50e751d19f3ea09d2714",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-08",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"3f1226543681bc9e6a7f6c46abb3a3fadc509a58",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-15",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"ec59f9a0292537a1f59a05e1fa394dc4d2d29138",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-15",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"1d9358a287f98573950224fe2e5cfa92ca26ae09",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-10-04",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"fba8c62828d9954181cdc2fbce6be4725f28bd1b",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-10-06",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"da046a978ed8ec6064a071a78285069751c00f13",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-23",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"d6d92e9f2ab3083ccbac392882d103cb59261921",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-15",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"e61ffcfad0502c64a418251a2d9da87f6c6fb7fb",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-15",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"50a7ac2003c32029db2fa7af55c9c8d310062d58",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-18",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"21bd6729d9ee9d0beba1b60f6499854800c056b4",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-17",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"bd6c3fad183b1c5e22491ada940437cb165d583e",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-28",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"1ed98920dcee70b5ddbada7b589eb67707677ea1",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-16",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"49ea8dedbd57d0597dbc8d2f6b1852b77a82dc05",
+                     "comments":[
+                        {
+                           "created":"2021-09-20",
+                           "author":{
+                              "accountId":"6138bbd924ba8b00700d5edd",
+                              "accountName":"Mestra Soft"
+                           },
+                           "comment":"y good"
+                        }
+                     ]
+                  },
+                  {
+                     "created":"2021-09-28",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"01d2b8d917c2ef0335618c37e7ea1c2bfca1954e",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-15",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"34fc5bf07b050103c7158dbe1b4607105caf657b",
+                     "comments":[
+                        
+                     ]
+                  },
+                  {
+                     "created":"2021-09-18",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     },
+                     "hash":"ad0469669dd9022d98a57b310a830d44b25f4418",
+                     "comments":[
+                        {
+                           "created":"2021-09-20",
+                           "author":{
+                              "accountId":"6138bbd924ba8b00700d5edd",
+                              "accountName":"Mestra Soft"
+                           },
+                           "comment":"good"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "docs":[
+      {
+         "space":"team activuty",
+         "id":131076,
+         "created":"2021-09-08",
+         "author":{
+            "accountId":"6138bbd924ba8b00700d5edd",
+            "accountName":"Mestra Soft"
+         },
+         "pages":[
+            {
+               "id":"131168",
+               "title":"team activuty",
+               "created":"2021-09-08",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-08",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  
+               ]
+            },
+            {
+               "id":"131209",
+               "title":"Master project documentation",
+               "created":"2021-09-08",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-08",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  
+               ]
+            },
+            {
+               "id":"131191",
+               "title":"How-to article",
+               "created":"2021-09-08",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-08",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  
+               ]
+            },
+            {
+               "id":"131174",
+               "title":"team activuty - Getting started - Making a template",
+               "created":"2021-09-08",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-08",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  
+               ]
+            },
+            {
+               "id":"2785282",
+               "title":"page title",
+               "created":"2021-09-10",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-10",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  {
+                     "id":"16449537",
+                     "created":"2021-09-27",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ]
+            },
+            {
+               "id":"131200",
+               "title":"Meeting notes",
+               "created":"2021-09-08",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-08",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  
+               ]
+            },
+            {
+               "id":"131171",
+               "title":"team activuty - Getting started",
+               "created":"2021-09-08",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-08",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  
+               ]
+            },
+            {
+               "id":"16482319",
+               "title":"dsfds 2",
+               "created":"2021-09-27",
+               "author":{
+                  "accountId":"6138bbd924ba8b00700d5edd",
+                  "accountName":"Mestra Soft"
+               },
+               "edits":[
+                  {
+                     "created":"2021-09-27",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  },
+                  {
+                     "created":"2021-09-27",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ],
+               "comments":[
+                  {
+                     "id":"16547853",
+                     "created":"2021-09-28",
+                     "author":{
+                        "accountId":"6138bbd924ba8b00700d5edd",
+                        "accountName":"Mestra Soft"
+                     }
+                  }
+               ]
+            }
+         ],
+         "blogs":[
+            
+         ]
+      }
+   ]
+}

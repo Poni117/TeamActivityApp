@@ -1,0 +1,13 @@
+#card-info{
+    position: relative;
+    display: grid;
+    grid-template-columns: 27% 20% repeat(1, 1fr);
+}
+
+#colors-informations-container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+}

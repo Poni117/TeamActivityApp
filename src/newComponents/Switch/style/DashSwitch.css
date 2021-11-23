@@ -1,0 +1,40 @@
+.dash-btn{
+    position: relative;
+    width:25px;
+    height: 25px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.dash-btn button{
+    display: none;
+}
+
+#dashborad-btn{
+    position: relative;
+    border-radius: 2px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    justify-items: center;
+    align-items: center;
+}
+
+#dashtable-btn{
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    align-items: center;
+    justify-items: center;
+    align-items: center;
+}
+
+#dashState-btn{
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    align-items: center;
+    justify-items: center;
+    align-items: center;
+}
+
+

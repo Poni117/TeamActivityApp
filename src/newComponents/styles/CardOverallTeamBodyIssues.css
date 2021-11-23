@@ -1,0 +1,21 @@
+#card-body-table-issues{
+    width: 100%;
+    display: grid;
+    grid-template-rows: 30% 55% 15%;
+    justify-items: center;
+}
+
+#card-body-issues{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+#card-body-action-issues-name{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

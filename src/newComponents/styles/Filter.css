@@ -1,0 +1,36 @@
+#RangeDates{
+    width: 85%
+}
+
+#start, #end{
+    position: relative;
+    /* display: flex; */
+    width: 100%;
+    height: 30px;
+    margin: 2px 0;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    box-sizing: border-box;
+    border-color: #acacacf0;
+    outline: none;
+    /* animation:  loads 5s; */
+}
+
+
+
+@keyframes loads{
+    0%{
+        width: 0%;
+      
+    }
+    100%{
+        width: 100%;
+    }
+}
+
+
+
+#range-button:hover{
+    background-color: #3fc250;
+}

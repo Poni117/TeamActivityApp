@@ -1,0 +1,22 @@
+#DashboardButton{
+    position: relative;
+    border-radius: 2px;
+    width: 10%;
+    border: 1px solid;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    justify-items: center;
+    align-items: center;
+
+    background-color: aqua;
+}
+
+.DashboardButtonInner{
+    position: relative;
+    width: 75%;
+    height: 75%;
+    border-radius: 1px;
+    border: none;
+    background-color: #9E9E9E;
+}

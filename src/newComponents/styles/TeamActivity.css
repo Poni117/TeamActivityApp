@@ -1,0 +1,8 @@
+#dashes-container{
+    width: 100%;
+}
+
+#container-logout{
+    display: flex;
+    justify-content: space-between;
+}

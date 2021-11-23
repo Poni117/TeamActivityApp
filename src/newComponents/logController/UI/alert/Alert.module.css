@@ -1,0 +1,21 @@
+/* The alert message box */
+#Alert {
+    display: flex;
+    position: relative;
+    height: 100%;
+    width: 250px;
+    background-color: #B00020; /* Red */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 550;
+  }
+  
+  /* The close button */
+
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: black;
+  }

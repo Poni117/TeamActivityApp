@@ -1,0 +1,13 @@
+#settings-space{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    right: 60px;
+    display: grid;
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+}
+
+#confirm-space{
+    width: 100%;
+}

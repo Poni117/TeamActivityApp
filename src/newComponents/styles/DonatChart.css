@@ -1,0 +1,24 @@
+#chart-container{
+    position: relative;
+    display: flex;
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.path{
+    transition: 0.25;
+    align-self: center;
+    animation: change_fill 13s, popup 2s;
+}
+
+@keyframes reduce_radius {
+    from { r: 10; }
+    to { r: 3; }
+}
+@keyframes change_fill {
+    0% { fill: #49549E; }
+    75% { fill: #1bceb1; }
+    100% { fill: #1bce4f; }
+}

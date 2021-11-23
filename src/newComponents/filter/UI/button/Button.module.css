@@ -1,0 +1,13 @@
+#Button{
+    position: relative;
+    height: 30px;
+    width: 25%;
+    left: 10px;
+    border-radius: 4px;
+    background-color: #35b947;
+    border: none;
+    transition: 0.5s;
+    text-transform: uppercase;
+    color: white;
+    /* animation:  loads 5s; */
+}

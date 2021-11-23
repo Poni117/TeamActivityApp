@@ -1,0 +1,16 @@
+#LocationListDocs {
+    display: flexbox;
+    justify-content: center;
+    width: 80%;
+}
+
+.select {
+    width: 100%;
+    height: 32px;
+    border-radius:  4px;
+    margin-bottom: 5px;
+    background-color: white;
+    text-align: center;
+    outline: 0px;
+    cursor: pointer;
+}

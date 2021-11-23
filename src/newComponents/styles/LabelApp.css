@@ -1,0 +1,23 @@
+#label-app-container{
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+#label_app{
+    display: flex;
+    flex-direction: column;
+   align-items: flex-end;
+}
+#label_app h1{
+    position: relative;
+    display: flex;
+    color: #025388;
+}
+
+#label_app span {
+    position: relative;
+    right: 0;
+    color: #025388;
+}

@@ -1,0 +1,21 @@
+#confirm{
+    position: absolute;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 75px;
+    z-index: 2;
+}
+
+#confirm-delete-account{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+}
+
+
+

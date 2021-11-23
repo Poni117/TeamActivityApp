@@ -1,0 +1,69 @@
+#card-range{
+    margin-top: 50px;
+}
+.card-account-container{
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: calc(70% / 3);
+    justify-content: space-between;
+}
+
+.card-user-account-information{
+    position: relative;
+    display: grid;
+    grid-template-columns: 20% repeat(1, 1fr);
+    width:45%;
+    align-items: center;
+    height: 100%;
+}
+
+.account-avatar{
+    position: relative;
+    left: 5px;
+}
+
+.account-name{
+    position: relative;
+}
+
+.card-user-account-actions{
+    
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 50%;
+    align-items: center;
+    height: 100%;
+    justify-items: center;
+
+}
+
+.image{
+    position: relative;
+    width:32px;
+    height: 32px;
+}
+
+#card-action-label-container{
+    position: relative;
+    height: 20%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#card-action-label{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items:flex-end;
+    justify-items: center;
+}
+
+#card-action-label span{
+    font-weight: 600;
+    color: #616161;
+}
+  
